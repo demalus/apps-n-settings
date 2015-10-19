@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"GitSavvy",
+		"LESS",
+		"Markdown Preview",
+		"Package Control",
+		"Predawn Monokai",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"TernJS",
+		"Text Pastry",
+		"Theme - Flatland"
+	]
+}

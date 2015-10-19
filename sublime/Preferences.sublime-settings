@@ -1,0 +1,18 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Predawn Monokai/Predawn Monokai.tmTheme",
+	"drag_text": false,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Consolas",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"preview_on_click": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
