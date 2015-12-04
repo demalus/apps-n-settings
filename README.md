@@ -3,6 +3,7 @@ Just some apps and settings I use for my work environment.
 
 - [Sublime](#sublime)
 - [Cmder (Windows)](#cmder)
+- [Postman](#postman)
 
 ## Sublime
 - Install [Sublime Text 3](http://www.sublimetext.com/3)
@@ -25,3 +26,8 @@ Shell app setup to use git bash
   - Commands: `"C:\Program Files (x86)\Git\bin\bash.exe" --login`
 - In Settings -> Startup
   - Choose *Specified named task* and select `{GitBash}` 
+
+## Postman
+REST client  
+
+[Download here](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
