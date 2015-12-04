@@ -4,6 +4,7 @@ Just some apps and settings I use for my work environment.
 - [Sublime](#sublime)
 - [Cmder (Windows)](#cmder)
 - [Postman](#postman)
+- [Clipboard Managers](#clipboard-managers)
 
 ## Sublime
 - Install [Sublime Text 3](http://www.sublimetext.com/3)
@@ -31,3 +32,7 @@ Shell app setup to use git bash
 REST client  
 
 [Download here](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
+
+## Clipboard Managers
+
+ClipX (Windows): [download](http://bluemars.org/clipx/)
