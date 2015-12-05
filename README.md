@@ -36,6 +36,7 @@ REST client
 ## OS Extensions
 
 ClipX (Windows): [download](http://bluemars.org/clipx/)  
+
 Alfred2 (OS X): [download](https://www.alfredapp.com/)
   - Set Powerpack license (check email)
   - Set terminal to iTerm2 with [this applescript](https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred) for Custom
