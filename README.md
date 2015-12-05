@@ -4,7 +4,7 @@ Just some apps and settings I use for my work environment.
 - [Sublime](#sublime)
 - [Cmder (Windows)](#cmder)
 - [Postman](#postman)
-- [Clipboard Managers](#clipboard-managers)
+- [OS Extensions](#os-extensions)
 
 ## Sublime
 - Install [Sublime Text 3](http://www.sublimetext.com/3)
@@ -33,6 +33,10 @@ REST client
 
 [Download here](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
 
-## Clipboard Managers
+## OS Extensions
 
 ClipX (Windows): [download](http://bluemars.org/clipx/)
+Alfred2 (OS X): [download](https://www.alfredapp.com/)
+  - Set Powerpack license (check email)
+  - Set terminal to iTerm2 with [this applescript](https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred) for Custom
+  - Add [custom web searches](http://alfredtips.com/s/popular/1/)
