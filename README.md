@@ -20,6 +20,8 @@ Just some apps and settings I use for my work environment.
 Shell app setup to use git bash  
 
 - Install [cmder](http://cmder.net/)
+
+For minimal setup:  
 - In Settings -> Startup -> Tasks
   - Click '+' to add new task, name it 'GitBash'
   - Hotkey: LCtrl+N
@@ -27,6 +29,8 @@ Shell app setup to use git bash
   - Commands: `"C:\Program Files (x86)\Git\bin\bash.exe" --login`
 - In Settings -> Startup
   - Choose *Specified named task* and select `{GitBash}` 
+
+Or import [settings](cmder/cmder.xml)
 
 ## Postman
 REST client  
