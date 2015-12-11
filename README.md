@@ -21,7 +21,7 @@ Shell app setup to use git bash
 
 - Install [cmder](http://cmder.net/)
 
-For minimal setup:  
+For minimal setup
 - In Settings -> Startup -> Tasks
   - Click '+' to add new task, name it 'GitBash'
   - Hotkey: LCtrl+N
