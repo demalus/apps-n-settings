@@ -8,10 +8,30 @@ Just some apps and settings I use for my work environment.
 
 ## Sublime
 - Install [Sublime Text 3](http://www.sublimetext.com/3)
+
 - Enter license key (check email)
 - Install [Package Control](https://packagecontrol.io/installation)
 - Close Sublime
+
+- Install the following packages:
+  - Babel
+  - BracketHighlighter
+  - Color Highlighter
+  - GitSavvy
+  - LESS
+  - Markdown Preview
+  - Predawn Monokai
+  - Pretty JSON
+  - SideBarEnhancements
+  - TernJS
+  - Text Pastry
+  - Theme - Flatland
+- Close Sublime
 - Copy files from the [sublime folder](sublime) into *Packages/User/* (get full location from Preferences -> Browse Packages...)
+- In `GitSavvy.sublime-settings`, edit the git executable path
+
+- View -> Side Bar -> Show Open Files
+
 - TODO: GitSavvy config is windows specific
 - TODO: add mac keybinds
 
