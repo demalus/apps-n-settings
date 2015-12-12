@@ -27,13 +27,10 @@ Just some apps and settings I use for my work environment.
   - Text Pastry
   - Theme - Flatland
 - Close Sublime
-- Copy files from the [sublime folder](sublime) into *Packages/User/* (get full location from Preferences -> Browse Packages...)
+- Copy files from the [sublime folder](sublime) into *Packages/User/* (get full location from Preferences -> Browse Packages...). Make sure to get the right platforms.
 - In `GitSavvy.sublime-settings`, edit the git executable path
 
 - View -> Side Bar -> Show Open Files
-
-- TODO: GitSavvy config is windows specific
-- TODO: add mac keybinds
 
 ## Cmder
 *Windows*  
